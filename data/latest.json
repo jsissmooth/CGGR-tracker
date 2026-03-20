@@ -1,0 +1,465 @@
+{
+  "date": "2026-03-20",
+  "holdings": [
+    {
+      "ticker": "META",
+      "pct_net_assets": 0.0773,
+      "shares": 2516092.0
+    },
+    {
+      "ticker": "TSLA",
+      "pct_net_assets": 0.0577,
+      "shares": 2994335.0
+    },
+    {
+      "ticker": "NVDA",
+      "pct_net_assets": 0.0549,
+      "shares": 6076193.0
+    },
+    {
+      "ticker": "AVGO",
+      "pct_net_assets": 0.0452,
+      "shares": 2788784.0
+    },
+    {
+      "ticker": "MSFT",
+      "pct_net_assets": 0.0406,
+      "shares": 2059250.0
+    },
+    {
+      "ticker": "CMQXX",
+      "pct_net_assets": 0.0348,
+      "shares": 6862493.22
+    },
+    {
+      "ticker": "GOOG",
+      "pct_net_assets": 0.0334,
+      "shares": 2156508.0
+    },
+    {
+      "ticker": "GOOGL",
+      "pct_net_assets": 0.0313,
+      "shares": 2014800.0
+    },
+    {
+      "ticker": "MU",
+      "pct_net_assets": 0.0284,
+      "shares": 1260332.0
+    },
+    {
+      "ticker": "AMZN",
+      "pct_net_assets": 0.0234,
+      "shares": 2212692.0
+    },
+    {
+      "ticker": "NFLX",
+      "pct_net_assets": 0.0223,
+      "shares": 4790054.0
+    },
+    {
+      "ticker": "V",
+      "pct_net_assets": 0.0221,
+      "shares": 1456387.0
+    },
+    {
+      "ticker": "ISRG",
+      "pct_net_assets": 0.0213,
+      "shares": 876713.0
+    },
+    {
+      "ticker": "TDG",
+      "pct_net_assets": 0.0213,
+      "shares": 352018.0
+    },
+    {
+      "ticker": "NET",
+      "pct_net_assets": 0.0199,
+      "shares": 1774151.0
+    },
+    {
+      "ticker": "SHOP",
+      "pct_net_assets": 0.0195,
+      "shares": 3141754.0
+    },
+    {
+      "ticker": "LLY",
+      "pct_net_assets": 0.018,
+      "shares": 388299.0
+    },
+    {
+      "ticker": "VRTX",
+      "pct_net_assets": 0.018,
+      "shares": 777570.0
+    },
+    {
+      "ticker": "AAPL",
+      "pct_net_assets": 0.0167,
+      "shares": 1322477.0
+    },
+    {
+      "ticker": "TSM",
+      "pct_net_assets": 0.013,
+      "shares": 759587.0
+    },
+    {
+      "ticker": "GE",
+      "pct_net_assets": 0.0118,
+      "shares": 798588.0
+    },
+    {
+      "ticker": "PWR",
+      "pct_net_assets": 0.0117,
+      "shares": 400982.0
+    },
+    {
+      "ticker": "BAC",
+      "pct_net_assets": 0.011,
+      "shares": 4605213.0
+    },
+    {
+      "ticker": "CRM",
+      "pct_net_assets": 0.0103,
+      "shares": 1046100.0
+    },
+    {
+      "ticker": "MSTR",
+      "pct_net_assets": 0.0099,
+      "shares": 1409614.0
+    },
+    {
+      "ticker": "EOG",
+      "pct_net_assets": 0.0094,
+      "shares": 1331528.0
+    },
+    {
+      "ticker": "A000660",
+      "pct_net_assets": 0.0091,
+      "shares": 266229.0
+    },
+    {
+      "ticker": "WPM",
+      "pct_net_assets": 0.0091,
+      "shares": 1474339.0
+    },
+    {
+      "ticker": "ALNY",
+      "pct_net_assets": 0.009,
+      "shares": 570020.0
+    },
+    {
+      "ticker": "CMG",
+      "pct_net_assets": 0.0086,
+      "shares": 5154198.0
+    },
+    {
+      "ticker": "APH",
+      "pct_net_assets": 0.0082,
+      "shares": 1239948.0
+    },
+    {
+      "ticker": "RCL",
+      "pct_net_assets": 0.0081,
+      "shares": 585070.0
+    },
+    {
+      "ticker": "DHI",
+      "pct_net_assets": 0.0078,
+      "shares": 1118492.0
+    },
+    {
+      "ticker": "PFGC",
+      "pct_net_assets": 0.0073,
+      "shares": 1728681.0
+    },
+    {
+      "ticker": "COST",
+      "pct_net_assets": 0.0069,
+      "shares": 139920.0
+    },
+    {
+      "ticker": "UNH",
+      "pct_net_assets": 0.0068,
+      "shares": 479038.0
+    },
+    {
+      "ticker": "BKR",
+      "pct_net_assets": 0.0064,
+      "shares": 2076858.0
+    },
+    {
+      "ticker": "HCA",
+      "pct_net_assets": 0.0064,
+      "shares": 251862.0
+    },
+    {
+      "ticker": "UBER",
+      "pct_net_assets": 0.0064,
+      "shares": 1686720.0
+    },
+    {
+      "ticker": "PM",
+      "pct_net_assets": 0.0062,
+      "shares": 753629.0
+    },
+    {
+      "ticker": "RSG",
+      "pct_net_assets": 0.0061,
+      "shares": 538741.0
+    },
+    {
+      "ticker": "TMO",
+      "pct_net_assets": 0.0059,
+      "shares": 246815.0
+    },
+    {
+      "ticker": "GMEXICO B",
+      "pct_net_assets": 0.0058,
+      "shares": 11380387.0
+    },
+    {
+      "ticker": "LYV",
+      "pct_net_assets": 0.0058,
+      "shares": 740048.0
+    },
+    {
+      "ticker": "WELL",
+      "pct_net_assets": 0.0058,
+      "shares": 553510.0
+    },
+    {
+      "ticker": "ATI",
+      "pct_net_assets": 0.0056,
+      "shares": 748712.0
+    },
+    {
+      "ticker": "FTAI",
+      "pct_net_assets": 0.0055,
+      "shares": 448741.0
+    },
+    {
+      "ticker": "DASH",
+      "pct_net_assets": 0.0054,
+      "shares": 673419.0
+    },
+    {
+      "ticker": "KLAC",
+      "pct_net_assets": 0.0051,
+      "shares": 66645.0
+    },
+    {
+      "ticker": "CAT",
+      "pct_net_assets": 0.005,
+      "shares": 142493.0
+    },
+    {
+      "ticker": "FICO",
+      "pct_net_assets": 0.005,
+      "shares": 88652.0
+    },
+    {
+      "ticker": "TOST",
+      "pct_net_assets": 0.005,
+      "shares": 3628805.0
+    },
+    {
+      "ticker": "AMGN",
+      "pct_net_assets": 0.0049,
+      "shares": 278932.0
+    },
+    {
+      "ticker": "COF",
+      "pct_net_assets": 0.0048,
+      "shares": 528074.0
+    },
+    {
+      "ticker": "MRNA",
+      "pct_net_assets": 0.0048,
+      "shares": 1797974.0
+    },
+    {
+      "ticker": "NKE",
+      "pct_net_assets": 0.0047,
+      "shares": 1742415.0
+    },
+    {
+      "ticker": "TSCO",
+      "pct_net_assets": 0.0046,
+      "shares": 1972183.0
+    },
+    {
+      "ticker": "CSU",
+      "pct_net_assets": 0.0044,
+      "shares": 47509.0
+    },
+    {
+      "ticker": "ALB",
+      "pct_net_assets": 0.0043,
+      "shares": 524622.0
+    },
+    {
+      "ticker": "BURL",
+      "pct_net_assets": 0.0043,
+      "shares": 269002.0
+    },
+    {
+      "ticker": "CNQ",
+      "pct_net_assets": 0.0043,
+      "shares": 1712651.0
+    },
+    {
+      "ticker": "CEG",
+      "pct_net_assets": 0.0043,
+      "shares": 269566.0
+    },
+    {
+      "ticker": "APO",
+      "pct_net_assets": 0.0042,
+      "shares": 748479.0
+    },
+    {
+      "ticker": "XYZ",
+      "pct_net_assets": 0.0042,
+      "shares": 1392951.0
+    },
+    {
+      "ticker": "MA",
+      "pct_net_assets": 0.0041,
+      "shares": 163594.0
+    },
+    {
+      "ticker": "RMS",
+      "pct_net_assets": 0.004,
+      "shares": 38800.0
+    },
+    {
+      "ticker": "KKR",
+      "pct_net_assets": 0.004,
+      "shares": 878798.0
+    },
+    {
+      "ticker": "APP",
+      "pct_net_assets": 0.0039,
+      "shares": 173067.0
+    },
+    {
+      "ticker": "IONS",
+      "pct_net_assets": 0.0039,
+      "shares": 1077204.0
+    },
+    {
+      "ticker": "ARMK",
+      "pct_net_assets": 0.0038,
+      "shares": 1909909.0
+    },
+    {
+      "ticker": "AFRM",
+      "pct_net_assets": 0.0037,
+      "shares": 1666278.0
+    },
+    {
+      "ticker": "HD",
+      "pct_net_assets": 0.0037,
+      "shares": 224490.0
+    },
+    {
+      "ticker": "INTC",
+      "pct_net_assets": 0.0037,
+      "shares": 1561222.0
+    },
+    {
+      "ticker": "URI",
+      "pct_net_assets": 0.0036,
+      "shares": 97818.0
+    },
+    {
+      "ticker": "NOC",
+      "pct_net_assets": 0.0035,
+      "shares": 97719.0
+    },
+    {
+      "ticker": "GEV",
+      "pct_net_assets": 0.0034,
+      "shares": 75612.0
+    },
+    {
+      "ticker": "CSGP",
+      "pct_net_assets": 0.0031,
+      "shares": 1444045.0
+    },
+    {
+      "ticker": "FLUT",
+      "pct_net_assets": 0.0031,
+      "shares": 573361.0
+    },
+    {
+      "ticker": "UAL",
+      "pct_net_assets": 0.0031,
+      "shares": 655368.0
+    },
+    {
+      "ticker": "Z",
+      "pct_net_assets": 0.003,
+      "shares": 1306324.0
+    },
+    {
+      "ticker": "AIR",
+      "pct_net_assets": 0.0029,
+      "shares": 306639.0
+    },
+    {
+      "ticker": "RBLX",
+      "pct_net_assets": 0.0029,
+      "shares": 1003688.0
+    },
+    {
+      "ticker": "RKLB",
+      "pct_net_assets": 0.0029,
+      "shares": 804536.0
+    },
+    {
+      "ticker": "NCLH",
+      "pct_net_assets": 0.0027,
+      "shares": 2738029.0
+    },
+    {
+      "ticker": "W",
+      "pct_net_assets": 0.0026,
+      "shares": 669279.0
+    },
+    {
+      "ticker": "DHR",
+      "pct_net_assets": 0.0025,
+      "shares": 254867.0
+    },
+    {
+      "ticker": "LPLA",
+      "pct_net_assets": 0.0025,
+      "shares": 174164.0
+    },
+    {
+      "ticker": "MTD",
+      "pct_net_assets": 0.0025,
+      "shares": 41442.0
+    },
+    {
+      "ticker": "PGR",
+      "pct_net_assets": 0.0024,
+      "shares": 233592.0
+    },
+    {
+      "ticker": "RYAAY",
+      "pct_net_assets": 0.0022,
+      "shares": 743325.0
+    },
+    {
+      "ticker": "GH",
+      "pct_net_assets": 0.0019,
+      "shares": 423892.0
+    },
+    {
+      "ticker": "2299955D",
+      "pct_net_assets": 0.0,
+      "shares": 4185.0
+    }
+  ]
+}
