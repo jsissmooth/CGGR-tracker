@@ -27,7 +27,7 @@ jobs:
       - name: Run holdings script
         run: python scripts/fetch_holdings.py
 
-     - name: Commit updated data
+      - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
