@@ -3,7 +3,7 @@ name: Daily Holdings Tracker
 on:
   schedule:
     # 9:30 AM Eastern = 14:30 UTC (adjust for DST as needed)
-    - cron: "30 14 * * 1-5"
+    - cron: "30 12 * * 1-5"
   workflow_dispatch:   # lets you trigger manually from the Actions tab
 
 jobs:
